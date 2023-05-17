@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nazham
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+
+- 🌱 I’m currently learning python/C# .NET
 - 💞️ I’m looking to collaborate on python projects
 
 <!---
