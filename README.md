@@ -1,4 +1,8 @@
-- 🌱 I’m currently learning python/C# .NET
+- 🌱python
+- C# .NET
+- Java
+- JS
+- 
 
 
 <!---
